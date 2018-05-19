@@ -1,0 +1,11 @@
+/home/baki/Desktop/shop/bin/Debug/netcoreapp2.0/shop.deps.json
+/home/baki/Desktop/shop/bin/Debug/netcoreapp2.0/shop.runtimeconfig.json
+/home/baki/Desktop/shop/bin/Debug/netcoreapp2.0/shop.runtimeconfig.dev.json
+/home/baki/Desktop/shop/bin/Debug/netcoreapp2.0/shop.dll
+/home/baki/Desktop/shop/bin/Debug/netcoreapp2.0/shop.pdb
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.csprojResolveAssemblyReference.cache
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.csproj.CoreCompileInputs.cache
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.AssemblyInfoInputs.cache
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.AssemblyInfo.cs
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.dll
+/home/baki/Desktop/shop/obj/Debug/netcoreapp2.0/shop.pdb
